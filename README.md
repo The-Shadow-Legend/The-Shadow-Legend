@@ -1,4 +1,8 @@
-Hello, I'm [Your Name] 👋
+<div align="center">
+   <h1>
+      Hello, I'm Shadow 👋
+   </h1>
+</div>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Visualization+Expert" alt="Typing SVG" />
 </div>
@@ -8,10 +12,6 @@ Hello, I'm [Your Name] 👋
 <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views"/>
-</div>
 
 📊 Analytics & Data Visualization Specialist
 Passionate about transforming complex data into actionable insights using Python and modern visualization techniques. Experienced in data analysis, statistical modeling, and building interactive dashboards.
@@ -56,42 +56,6 @@ Passionate about transforming complex data into actionable insights using Python
 <a href="https://github.com/yourusername">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="98%" alt="Activity graph"/>
 </a>
-</div>
-
-🌟 Featured Projects
-<div align="center">
-<a href="https://github.com/yourusername/project1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-</a>
-<a href="https://github.com/yourusername/project2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-</a>
-</div>
-
-📝 Recent Activity
-<!--START_SECTION:activity-->
-🔍 Contributed to organization/repo (3 days ago)
-📊 Created data visualization dashboard (1 week ago)
-🧪 Implemented new ML model with 94% accuracy (2 weeks ago)<!--END_SECTION:activity-->
-📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Advanced Data Visualization Techniques with Python
-Mastering Snowflake for Data Analytics
-Building Interactive Dashboards with Next.js and Plotly <!-- BLOG-POST-LIST:END -->
-📊 Weekly Coding Stats
-<!--START_SECTION:waka-->
-text
-
-Copy
-Python        █████████████░░░░░░░   52.25%
-TypeScript    ████████░░░░░░░░░░░░   31.73%
-SQL           ████░░░░░░░░░░░░░░░░   15.44%
-Markdown      ▓░░░░░░░░░░░░░░░░░░░    2.58%
-<!--END_SECTION:waka-->
-
-🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub trophies"/>
 </div>
 
 <div align="center">
