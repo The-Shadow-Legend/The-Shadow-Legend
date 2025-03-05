@@ -46,6 +46,6 @@
 <h3>Thanks for visiting! 👋</h3>
 
 <a href="https://www.buymeacoffee.com/yourusername">
-   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+   <img src="https://buymeacoffee.com/sreanponlek" alt="Buy Me A Coffee"/>
 </a>
 </div>
