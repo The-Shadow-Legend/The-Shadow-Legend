@@ -8,9 +8,9 @@
 </div>
 
 <p align="center">
-   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-   <a href="https://www.youtube.com/c/yourchannelname"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/></a>
-   <a href="https://www.tiktok.com/@yourusername"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Account"/></a>
+   <a href="https://www.linkedin.com/in/ponleu-srean-091039211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+   <a href="https://www.youtube.com/@shadowlegend399"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/></a>
+   <a href="https://www.tiktok.com/@_legend_shadow_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Account"/></a>
 </p>
 
 📊 Analytics & Data Visualization Specialist
