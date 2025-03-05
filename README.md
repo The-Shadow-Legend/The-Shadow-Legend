@@ -32,25 +32,6 @@
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-📈 GitHub Statistics
-<div align="center">
-<a href="https://github.com/yourusername">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=30" width="48%" alt="Github stats"/>
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" alt="Streak stats"/>
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/yourusername">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%" alt="Top languages"/>
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=8" width="38%" alt="Productive time"/>
-</a>
-</div>
-
 📊 Contribution Graph
 <div align="center">
 <a href="https://github.com/yourusername">
