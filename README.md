@@ -45,7 +45,7 @@
 
 <h3>Thanks for visiting! 👋</h3>
 
-<a href="https://www.youtube.com/c/sreanponlek">
-   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+<a href="https://www.buymeacoffee.com/sreanponlek">
+   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 </div>
