@@ -32,16 +32,9 @@
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-📊 Contribution Graph
-<div align="center">
-<a href="https://github.com/yourusername">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="98%" alt="Activity graph"/>
-</a>
-</div>
-
 <div align="center">
 <h3>🧩 Interests beyond coding</h3>
-<p>When I'm not coding, you'll find me solving Rubik's Cubes, exploring AI advancements, and experimenting with new data visualization techniques!</p>
+   <p>When I'm not coding, you'll find me solving Rubik's Cubes, exploring AI advancements, and experimenting with new data visualization techniques!</p>
 </div>
 
 <div align="center">
@@ -50,6 +43,6 @@
 <h3>Thanks for visiting! 👋</h3>
 
 <a href="https://www.buymeacoffee.com/yourusername">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 </div>
